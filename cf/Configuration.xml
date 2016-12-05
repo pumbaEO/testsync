@@ -114,6 +114,7 @@
 		<ChildObjects>
 			<Language>Русский</Language>
 			<CommonModule>ТестовыйМодуль</CommonModule>
+			<Catalog>Организации</Catalog>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>

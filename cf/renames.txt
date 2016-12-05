@@ -1,4 +1,5 @@
 ﻿Configuration.xml-->Configuration.xml
+Catalogs\Организации.xml-->Catalogs\Организации.xml
 CommonModules\ТестовыйМодуль.xml-->CommonModules\ТестовыйМодуль.xml
 CommonModules\ТестовыйМодуль\Ext\Module.bsl-->CommonModules\ТестовыйМодуль\Ext\Module.bsl
 Languages\Русский.xml-->Languages\Русский.xml
